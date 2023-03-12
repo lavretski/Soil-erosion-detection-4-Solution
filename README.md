@@ -16,9 +16,13 @@ So it is clearly visible that the masks are bad
 In order to correctly attach the masks to the photo, I tried
 
 -play with all train_df.crs = {'init' :'epsg:4326'} changed epsg:4326
+
 -changed and experimented with the poly_from_utm function
+
 -changed parameters in rasterio.mask.mask
+
 -played with transposing the mask in various places in the code
+
 -read other files from the masks folder, which for some reason weigh more and some less, but contain the same masks in the same places on the map
 
 But I write code with modeling
