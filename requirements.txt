@@ -1,0 +1,11 @@
+pandas
+numpy
+sklearn
+optuna
+rasterio
+geopandas
+shapely
+cv2
+matplotlib
+tensorflow
+keras
