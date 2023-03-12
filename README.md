@@ -1,7 +1,10 @@
 # Soil-erosion-detection-4-Solution
 Random Image crop
+
 ![image](https://user-images.githubusercontent.com/36608117/224563583-5267fd5e-9a6f-463a-865e-e56233920ef9.png)
+
 Mask for that crop
+
 ![image](https://user-images.githubusercontent.com/36608117/224563637-4410a549-c8c4-4286-adce-4581293c9602.png)
 
 Or for example 
